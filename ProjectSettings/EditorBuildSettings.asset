@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: "Assets/Scenes/Scene_hoanghau/Ho\xE0ng h\u1EADu.unity"
     guid: 8893dc13f1ca37d419a2b5f5e55ed99f
   - enabled: 1
+    path: "Assets/Scenes/Scene_Tuong/T\u01B0\u1EDBng.unity"
+    guid: 79e0490054aadd44681123163c35aa0b
+  - enabled: 1
     path: Assets/Scenes/Scene_LoadScene/LoadScene.unity
     guid: a971e7553857ef844a6bdd7840eb40c7
   m_configObjects:
