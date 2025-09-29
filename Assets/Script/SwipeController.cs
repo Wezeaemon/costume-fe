@@ -29,7 +29,7 @@ public class SwipeController : MonoBehaviour, IEndDragHandler
 
     private void Awake()
     {
-        currentPage = 2; // index bắt đầu từ 0
+        currentPage = 3; // index bắt đầu từ 0
         targetPos = levelPagesRect.localPosition;
         dragThreshold = Screen.width / 15f;
 
